@@ -3,6 +3,7 @@ import { readFileSync, writeFileSync } from 'node:fs'
 
 const USER = 'BarakAlmog'
 const README = 'README.md'
+const FEATURED = ['Airtable-Masterkit', 'monster-portal']
 
 const gh = async (path) => {
   const res = await fetch(`https://api.github.com${path}`, {
@@ -38,10 +39,11 @@ const main = async () => {
 
 </div>`.trim()
 
-  const topRepos = repos
-    .filter((r) => !r.fork && !r.private && r.name.toLowerCase() !== USER.toLowerCase())
-    .sort((a, b) => b.stargazers_count - a.stargazers_count)
-    .slice(0, 6)
+  const topRepos = FEATURED.map((name) => {
+    const repo = repos.find((r) => r.name === name)
+    if (!repo) throw new Error(`Featured repo "${name}" not found in fetched repos`)
+    return repo
+  })
 
   const recent = repos
     .filter((r) => !r.fork)

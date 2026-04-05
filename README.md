@@ -5,13 +5,12 @@
 ### AI Automation Engineer · Founder @ Forge7 · Full-Stack Builder
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  Shipping AI-native systems that replace spreadsheets & ops  ║
-╚══════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════╗
+║  Building AI-native systems. Claude does most of the work.  ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 [![Forge7](https://img.shields.io/badge/Forge7-Founder-0a0a0a?style=for-the-badge)](https://forge7.dev)
-[![Sellerframe](https://img.shields.io/badge/Sellerframe-Agency-4f46e5?style=for-the-badge)](https://sellerframe.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/barakalmog/)
 [![GitHub](https://img.shields.io/badge/Follow-@BarakAlmog-181717?style=for-the-badge&logo=github)](https://github.com/BarakAlmog)
 
@@ -34,8 +33,8 @@
 ```ts
 class BarakAlmog {
   readonly role = 'AI Automation Engineer & Founder'
-  readonly location = 'Israel'
-  readonly company = 'Forge7 / Sellerframe'
+  readonly location = 'Chiang Mai, Thailand'
+  readonly company = 'Forge7'
 
   readonly focus = [
     'AI agents & Claude Code skills',
@@ -65,7 +64,7 @@ class BarakAlmog {
 <td width="50%" valign="top">
 
 ### 🛠 Forge7
-Custom AI-powered internal tools and automations for SMBs. Airtable-first delivery, 5-week builds, real ROI.
+Custom AI-powered internal tools and automations for SMBs. Airtable-first delivery, real ROI.
 
 </td>
 <td width="50%" valign="top">
@@ -96,10 +95,6 @@ Sharing the playbook for AI-native small businesses - posts, workshops, and open
 
 - ⭐ **[Airtable-Masterkit](https://github.com/BarakAlmog/Airtable-Masterkit)** (5) - A curated collection of JavaScript utility scripts designed for enhancing and automating tasks within Airtable's scripting runtime.
 - ⭐ **[monster-portal](https://github.com/BarakAlmog/monster-portal)** (1) - A stunning 3D Pokemon discovery experience with Three.js, particles, and holographic effects. Built with Electron.
-- ⭐ **[barakalmog.github.io](https://github.com/BarakAlmog/barakalmog.github.io)** (0) - No description
-- ⭐ **[reddit-scrapper](https://github.com/BarakAlmog/reddit-scrapper)** (0) - No description
-- ⭐ **[maor-shahar-boxing](https://github.com/BarakAlmog/maor-shahar-boxing)** (0) - No description
-- ⭐ **[users-list-react-native](https://github.com/BarakAlmog/users-list-react-native)** (0) - No description
 
 ## 🔄 Recently updated
 
