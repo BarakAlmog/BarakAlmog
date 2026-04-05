@@ -109,7 +109,7 @@ Sharing the playbook for AI-native small businesses - posts, workshops, and open
 - [`reddit-scrapper`](https://github.com/BarakAlmog/reddit-scrapper) - No description _(updated 2026-01-27)_
 - [`maor-shahar-boxing`](https://github.com/BarakAlmog/maor-shahar-boxing) - No description _(updated 2025-12-09)_
 
-<sub>Last sync: `2026-04-05T08:27:12.731Z`</sub>
+<sub>Last sync: `2026-04-05T08:27:36.335Z`</sub>
 <!-- DYNAMIC_REPOS_END -->
 
 ---
