@@ -98,13 +98,13 @@ Sharing the playbook for AI-native small businesses - posts, workshops, and open
 
 ## 🔄 Recently updated
 
-- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-04-14)_
+- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-04-15)_
 - [`barakalmog.github.io`](https://github.com/BarakAlmog/barakalmog.github.io) - No description _(updated 2026-02-09)_
 - [`monster-portal`](https://github.com/BarakAlmog/monster-portal) - A stunning 3D Pokemon discovery experience with Three.js, particles, and holographic effects. Built with Electron. _(updated 2026-01-30)_
 - [`reddit-scrapper`](https://github.com/BarakAlmog/reddit-scrapper) - No description _(updated 2026-01-27)_
 - [`maor-shahar-boxing`](https://github.com/BarakAlmog/maor-shahar-boxing) - No description _(updated 2025-12-09)_
 
-<sub>Last sync: `2026-04-15T06:47:29.433Z`</sub>
+<sub>Last sync: `2026-04-16T06:48:19.419Z`</sub>
 <!-- DYNAMIC_REPOS_END -->
 
 ---
