@@ -19,7 +19,7 @@
 <!-- DYNAMIC_STATS_START -->
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Public_Repos-34-4f46e5?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public_Repos-35-4f46e5?style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-3-0a66c2?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/badge/Total_Stars-7-f59e0b?style=for-the-badge&logo=github)
 
@@ -98,13 +98,13 @@ Sharing the playbook for AI-native small businesses - posts, workshops, and open
 
 ## 🔄 Recently updated
 
-- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-04-24)_
-- [`barakalmog.github.io`](https://github.com/BarakAlmog/barakalmog.github.io) - No description _(updated 2026-02-09)_
+- [`barakalmog.github.io`](https://github.com/BarakAlmog/barakalmog.github.io) - No description _(updated 2026-04-26)_
+- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-04-25)_
 - [`monster-portal`](https://github.com/BarakAlmog/monster-portal) - A stunning 3D Pokemon discovery experience with Three.js, particles, and holographic effects. Built with Electron. _(updated 2026-01-30)_
 - [`reddit-scrapper`](https://github.com/BarakAlmog/reddit-scrapper) - No description _(updated 2026-01-27)_
 - [`maor-shahar-boxing`](https://github.com/BarakAlmog/maor-shahar-boxing) - No description _(updated 2025-12-09)_
 
-<sub>Last sync: `2026-04-25T06:39:38.164Z`</sub>
+<sub>Last sync: `2026-04-26T06:47:41.527Z`</sub>
 <!-- DYNAMIC_REPOS_END -->
 
 ---
