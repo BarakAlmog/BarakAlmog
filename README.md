@@ -98,13 +98,13 @@ Sharing the playbook for AI-native small businesses - posts, workshops, and open
 
 ## 🔄 Recently updated
 
-- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-06-06)_
+- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-06-07)_
 - [`f7-recorder`](https://github.com/BarakAlmog/f7-recorder) - One-click screen recorder for macOS - ffmpeg-powered, local-only, MIT. _(updated 2026-06-05)_
 - [`barakalmog.github.io`](https://github.com/BarakAlmog/barakalmog.github.io) - No description _(updated 2026-04-26)_
 - [`monster-portal`](https://github.com/BarakAlmog/monster-portal) - A stunning 3D Pokemon discovery experience with Three.js, particles, and holographic effects. Built with Electron. _(updated 2026-01-30)_
 - [`reddit-scrapper`](https://github.com/BarakAlmog/reddit-scrapper) - No description _(updated 2026-01-27)_
 
-<sub>Last sync: `2026-06-07T07:35:17.222Z`</sub>
+<sub>Last sync: `2026-06-08T07:59:02.953Z`</sub>
 <!-- DYNAMIC_REPOS_END -->
 
 ---
