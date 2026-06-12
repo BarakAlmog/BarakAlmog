@@ -19,7 +19,7 @@
 <!-- DYNAMIC_STATS_START -->
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Public_Repos-39-4f46e5?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public_Repos-40-4f46e5?style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-4-0a66c2?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/badge/Total_Stars-8-f59e0b?style=for-the-badge&logo=github)
 
@@ -98,13 +98,13 @@ Sharing the playbook for AI-native small businesses - posts, workshops, and open
 
 ## 🔄 Recently updated
 
+- [`3d-apt`](https://github.com/BarakAlmog/3d-apt) - No description _(updated 2026-06-11)_
+- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-06-11)_
 - [`forge7-fabel-ui`](https://github.com/BarakAlmog/forge7-fabel-ui) - FORGE7 // Autonomous Operations - a fictional AI automation agency landing page styled as a living mission-control deck. Three.js + GSAP, no build step. _(updated 2026-06-11)_
 - [`fable-ui-tests`](https://github.com/BarakAlmog/fable-ui-tests) - No description _(updated 2026-06-11)_
-- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-06-10)_
 - [`f7-recorder`](https://github.com/BarakAlmog/f7-recorder) - One-click screen recorder for macOS - ffmpeg-powered, local-only, MIT. _(updated 2026-06-05)_
-- [`barakalmog.github.io`](https://github.com/BarakAlmog/barakalmog.github.io) - No description _(updated 2026-04-26)_
 
-<sub>Last sync: `2026-06-11T07:54:42.235Z`</sub>
+<sub>Last sync: `2026-06-12T07:50:29.239Z`</sub>
 <!-- DYNAMIC_REPOS_END -->
 
 ---
