@@ -20,7 +20,7 @@
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/Public_Repos-47-4f46e5?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-7-0a66c2?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-6-0a66c2?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/badge/Total_Stars-8-f59e0b?style=for-the-badge&logo=github)
 
 </div>
@@ -98,13 +98,13 @@ Sharing the playbook for AI-native small businesses - posts, workshops, and open
 
 ## 🔄 Recently updated
 
-- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-10-15)_
+- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-10-16)_
 - [`fable-ui-tests`](https://github.com/BarakAlmog/fable-ui-tests) - No description _(updated 2026-10-13)_
 - [`scenes`](https://github.com/BarakAlmog/scenes) - Famous scenes in 3D, in the browser. _(updated 2026-09-25)_
 - [`forge7-fabel-ui`](https://github.com/BarakAlmog/forge7-fabel-ui) - FORGE7 // Autonomous Operations - a fictional AI automation agency landing page styled as a living mission-control deck. Three.js + GSAP, no build step. _(updated 2026-06-11)_
 - [`barakalmog.github.io`](https://github.com/BarakAlmog/barakalmog.github.io) - No description _(updated 2026-04-26)_
 
-<sub>Last sync: `2026-10-16T11:05:05.890Z`</sub>
+<sub>Last sync: `2026-10-17T10:24:46.070Z`</sub>
 <!-- DYNAMIC_REPOS_END -->
 
 ---
