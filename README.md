@@ -20,7 +20,7 @@
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/Public_Repos-43-4f46e5?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-6-0a66c2?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-5-0a66c2?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/badge/Total_Stars-8-f59e0b?style=for-the-badge&logo=github)
 
 </div>
@@ -98,13 +98,13 @@ Sharing the playbook for AI-native small businesses - posts, workshops, and open
 
 ## 🔄 Recently updated
 
+- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-10-30)_
 - [`monster-portal`](https://github.com/BarakAlmog/monster-portal) - A stunning 3D Pokemon discovery experience with Three.js, particles, and holographic effects. Built with Electron. _(updated 2026-10-25)_
 - [`fable-portfolio-demo`](https://github.com/BarakAlmog/fable-portfolio-demo) - No description _(updated 2026-10-13)_
-- [`BarakAlmog`](https://github.com/BarakAlmog/BarakAlmog) - ✨ GitHub profile README _(updated 2026-10-28)_
 - [`forge7-fabel-ui`](https://github.com/BarakAlmog/forge7-fabel-ui) - FORGE7 // Autonomous Operations - a fictional AI automation agency landing page styled as a living mission-control deck. Three.js + GSAP, no build step. _(updated 2026-06-11)_
 - [`barakalmog.github.io`](https://github.com/BarakAlmog/barakalmog.github.io) - No description _(updated 2026-04-26)_
 
-<sub>Last sync: `2026-10-30T12:44:39.638Z`</sub>
+<sub>Last sync: `2026-10-31T11:58:22.775Z`</sub>
 <!-- DYNAMIC_REPOS_END -->
 
 ---
